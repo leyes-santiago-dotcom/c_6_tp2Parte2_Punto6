@@ -40,14 +40,14 @@ Partial Class Form1
         lstMuestra.FormattingEnabled = True
         lstMuestra.Location = New Point(12, 47)
         lstMuestra.Name = "lstMuestra"
-        lstMuestra.Size = New Size(254, 464)
+        lstMuestra.Size = New Size(306, 464)
         lstMuestra.TabIndex = 1
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(278, 523)
+        ClientSize = New Size(330, 523)
         Controls.Add(lstMuestra)
         Controls.Add(cmdEjecutar)
         Name = "Form1"
